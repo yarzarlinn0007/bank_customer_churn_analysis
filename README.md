@@ -1,0 +1,1 @@
+🚀 Customer Churn Risk Analysis I recently participated in a data analysis challenge using an open-source dataset from an international bank. The goal - to understand customer churn – why customers leave, what patterns drive it, and how banks can respond.
